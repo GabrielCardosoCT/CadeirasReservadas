@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\cadeiras\bin\Debug\net8.0\cadeiras.exe
+C:\Users\gabri\My project\cadeiras\bin\Debug\net8.0\cadeiras.deps.json
+C:\Users\gabri\My project\cadeiras\bin\Debug\net8.0\cadeiras.runtimeconfig.json
+C:\Users\gabri\My project\cadeiras\bin\Debug\net8.0\cadeiras.dll
+C:\Users\gabri\My project\cadeiras\bin\Debug\net8.0\cadeiras.pdb
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.AssemblyInfo.cs
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.dll
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\refint\cadeiras.dll
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.pdb
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\cadeiras.genruntimeconfig.cache
+C:\Users\gabri\My project\cadeiras\obj\Debug\net8.0\ref\cadeiras.dll
